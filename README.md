@@ -1,5 +1,7 @@
 # EchoX
 
+[![Join the chat at https://gitter.im/Laily123/echox](https://badges.gitter.im/Laily123/echox.svg)](https://gitter.im/Laily123/echox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Echo Extra
 
 ### Running Recipes
